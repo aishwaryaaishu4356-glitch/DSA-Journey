@@ -1,8 +1,8 @@
 /*
 Leetcode 169: Majority Element
 Approach: Brute force optimised with sorting
-Time Complexity: 
-Space Complexity:
+Time Complexity: O(n log n)
+Space Complexity:O(1)
 */
 #include<iostream>
 #include<vector>
